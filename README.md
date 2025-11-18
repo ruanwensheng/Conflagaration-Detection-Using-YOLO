@@ -1,4 +1,4 @@
-# Conflagaration-Detection-Using-YOLOv11
+# Conflagaration-Detection-Using-YOLO
 ## 🎥 YOLOv11 Vehicle Detection Demo
 <p align="center">
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/3ff3c463-42cc-44ca-8996-13fc43e198e4" />
